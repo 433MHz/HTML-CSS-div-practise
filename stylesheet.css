@@ -13,4 +13,39 @@
 	background-color: gray;
 	text-align: center;
 	color: black;
+	padding: 5px;
+	height: 10%
+}
+
+#menu
+{
+	float: left;
+	width: 15%;
+	text-align: center;
+	height: 80%;
+}
+
+#content
+{
+	float: left;
+	width: 70%;
+	text-align: center;
+	background-color: lightblue;
+	height: 80%;
+}
+
+#ad
+{
+	float: left;
+	width: 15%;
+	text-align: center;
+	height: 80%;
+}
+
+#footer
+{
+	clear: both;
+	width: 100%;
+	text-align: center;
+	height: 10%;
 }

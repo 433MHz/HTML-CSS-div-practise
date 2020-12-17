@@ -80,10 +80,13 @@ body
 .menu
 {
 	font-weight: 700;
-	font-size: 25px;
+	font-size: 20px;
 	padding: 10px;
 	border-bottom: 2px dotted black;
+	margin-left: 10px;
+	margin-right: 10px;
 }
+
 
 #footer
 {

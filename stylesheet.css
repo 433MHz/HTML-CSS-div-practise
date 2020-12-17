@@ -49,3 +49,18 @@
 	text-align: center;
 	height: 10%;
 }
+
+a:link
+{
+color: yellow;
+}
+
+a:visited
+{
+color: yellow;
+}
+
+a:hover
+{
+color: red;
+}
